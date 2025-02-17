@@ -22,7 +22,9 @@ Evaluation: Measure the model performance using accuracy, precision, recall, and
 Results
 
 After evaluating different models, we found that Logistic Regression performs the best in predicting heart disease with an accuracy of 90%. Visualizations of the model’s performance can be found in the results section of the notebook.
-
+# Conclusions
+Identified key risk factors for heart disease 
+Model provides useful predictoions for early diagnosis
 # Installation
 Clone this repository to your local machine:
 
