@@ -19,7 +19,7 @@ Model Training: Train multiple models to evaluate their performance.
 Evaluation: Measure the model performance using accuracy, precision, recall, and F1 score.
 Results
 After evaluating different models, we found that Logistic Regression performs the best in predicting heart disease with an accuracy of 90%. Visualizations of the model’s performance can be found in the results section of the notebook.
-#Installation
+# Installation
 Clone this repository to your local machine:
 
 git clone https://github.com/LetsoelaAndries/Heart_disease.git
