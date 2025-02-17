@@ -15,10 +15,14 @@ Support Vector Machines (SVM): A classifier that works well in high-dimensional 
 We perform the following steps:
 
 Data Preprocessing: Clean the dataset, handle missing values, encode categorical variables.
+
 Model Training: Train multiple models to evaluate their performance.
+
 Evaluation: Measure the model performance using accuracy, precision, recall, and F1 score.
 Results
+
 After evaluating different models, we found that Logistic Regression performs the best in predicting heart disease with an accuracy of 90%. Visualizations of the model’s performance can be found in the results section of the notebook.
+
 # Installation
 Clone this repository to your local machine:
 
